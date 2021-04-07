@@ -1,3 +1,2 @@
-# devops-essentials-sample-app
-
+# devops-ecicd-sampler
 CI/CD practice 
